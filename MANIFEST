@@ -1,0 +1,14 @@
+Changes
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+README
+lib/Apache/TrapSubRequest.pm
+t/00.load.t
+t/conf/extra.last.conf.in
+t/htdocs/subreq_output
+t/pod-coverage.t
+t/pod.t
+t/response/TestApache/trap_subrequest.pm
+t/TEST.PL
+META.yml                                 Module meta-data (added by MakeMaker)
